@@ -1,0 +1,154 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{Cherukuri2023Unsupervised}{article}{}
+      \name{author}{3}{}{%
+        {{hash=203976ef5e8f66cee79772f642ba4a45}{%
+           family={Cherukuri},
+           familyi={C\bibinitperiod},
+           given={P.\bibnamedelimi A.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a2703f3f5d9c2175f22616158adcab03}{%
+           family={Allagadda},
+           familyi={A\bibinitperiod},
+           given={B.\bibnamedelimi S.},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=2e0dbc4b6af17cc13886000df4b775b9}{%
+           family={Konda},
+           familyi={K\bibinitperiod},
+           given={Anil\bibnamedelimb Kumar\bibnamedelima Reddy},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ef5b35c52095ac87b75aa8a7b28194a0}
+      \strng{fullhash}{ef5b35c52095ac87b75aa8a7b28194a0}
+      \strng{bibnamehash}{ef5b35c52095ac87b75aa8a7b28194a0}
+      \strng{authorbibnamehash}{ef5b35c52095ac87b75aa8a7b28194a0}
+      \strng{authornamehash}{ef5b35c52095ac87b75aa8a7b28194a0}
+      \strng{authorfullhash}{ef5b35c52095ac87b75aa8a7b28194a0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Hyperconnectivity and the Internet of Things (IJHIoT)}
+      \field{note}{In press}
+      \field{title}{{Unsupervised Clustering for Optimal Locality Detection - A Data Science Approach}}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.igi-global.com/article/unsupervised-clustering-for-optimal-locality-detection/274528
+      \endverb
+      \verb{url}
+      \verb https://www.igi-global.com/article/unsupervised-clustering-for-optimal-locality-detection/274528
+      \endverb
+    \endentry
+    \entry{Konda2020Chatbot}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=56cbeb8e8b5c6ec37d0ad2ac6354287c}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={Konda\bibnamedelimb Anil\bibnamedelima Kumar},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=1af49b9e46f3f9b1acde00bd0bcb4e7d}{%
+           family={Jimada},
+           familyi={J\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=96518c1f977a4cec319e9945906d2bbd}{%
+           family={Cherukuri},
+           familyi={C\bibinitperiod},
+           given={Praneet\bibnamedelimb Amul\bibnamedelima Akash},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5ec630d5c477421d14cc39d013ea6133}{%
+           family={Janakirama\bibnamedelima Sarma},
+           familyi={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Uttarakhand, India}%
+      }
+      \strng{namehash}{ca5987b81f9831bdef7e6202ac91f292}
+      \strng{fullhash}{967f93895c904fb700a43c88cbfe5b92}
+      \strng{bibnamehash}{967f93895c904fb700a43c88cbfe5b92}
+      \strng{authorbibnamehash}{967f93895c904fb700a43c88cbfe5b92}
+      \strng{authornamehash}{ca5987b81f9831bdef7e6202ac91f292}
+      \strng{authorfullhash}{967f93895c904fb700a43c88cbfe5b92}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IIENC-2020 Proceedings. International Virtual Conference on Integrated Intelligence Enable Networks & Computing}
+      \field{title}{{Chatbot Implementation for Enhancement of Student Understanding - A Natural Language Processing Approach}}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://link.springer.com/chapter/10.1007/978-981-33-6307-6_18
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/chapter/10.1007/978-981-33-6307-6_18
+      \endverb
+    \endentry
+    \entry{Indukuri2020Hypothesis}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=6ed1283fa904d44eedcf1882aaf3595d}{%
+           family={Shreya},
+           familyi={S\bibinitperiod},
+           given={Indukuri},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2e0dbc4b6af17cc13886000df4b775b9}{%
+           family={Konda},
+           familyi={K\bibinitperiod},
+           given={Anil\bibnamedelimb Kumar\bibnamedelima Reddy},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=2605729b158a3aa3faccfaf4ddb4cb30}{%
+           family={Sarma},
+           familyi={S\bibinitperiod},
+           given={Janakirama},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {ICRMAT 2020}%
+      }
+      \strng{namehash}{dead7fabb9cfb259e0af20033f83851f}
+      \strng{fullhash}{dead7fabb9cfb259e0af20033f83851f}
+      \strng{bibnamehash}{dead7fabb9cfb259e0af20033f83851f}
+      \strng{authorbibnamehash}{dead7fabb9cfb259e0af20033f83851f}
+      \strng{authornamehash}{dead7fabb9cfb259e0af20033f83851f}
+      \strng{authorfullhash}{dead7fabb9cfb259e0af20033f83851f}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of International Conference on Research in Management and Technovation}
+      \field{title}{{Proposed Hypothesis on replacing Non-Deterministic Approach to Abstraction due to the exhibition of faulty speculations}}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://annals-csis.org/proceedings/icrmat2020/drp/17.html
+      \endverb
+      \verb{url}
+      \verb https://annals-csis.org/proceedings/icrmat2020/drp/17.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
